@@ -1,22 +1,9 @@
-# Cinema AI Movie Recommendation System Dependencies
-
-# Core web frameworks
-flask==2.3.3
-flask-cors==4.0.0
-gradio==4.44.0
-
-# Data processing and machine learning
-pandas==2.1.1
-numpy==1.24.3
-scikit-learn==1.3.0
-
-# HTTP requests and API handling
-requests==2.31.0
-
-# Optional: Ngrok tunneling (uncomment if needed)
-# pyngrok==7.0.0
-
-# Development dependencies (uncomment for development)
-# pytest==7.4.0
-# black==23.7.0
-# flake8==6.0.0
+requests
+pandas
+numpy
+scikit-learn
+Flask
+Flask-CORS
+gradio
+python-dotenv
+pyngrok
